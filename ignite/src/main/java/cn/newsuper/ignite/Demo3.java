@@ -6,4 +6,7 @@ package cn.newsuper.ignite;
  */
 public class Demo3 {
 
+    public static void main(String[] args) {
+        System.out.println("测试一个数据");
+    }
 }
